@@ -1007,7 +1007,6 @@ https://collegeguitres.com
 http://www.collegejeanmonnet.com
 https://www.collegejeanpelletier.com
 https://www.collegelalinde.com
-https://www.collegeleroy.com
 https://collegelouisarmand.com
 https://www.collegeparentis.com
 https://collegepaulvallon.com
@@ -1031,7 +1030,6 @@ https://www.commequiers.com
 https://communaute-auxerrois.com
 http://www.communautedecommunes-nebbiu.com
 https://www.communauteduconfluent.com
-http://ww25.commune-chanu.com
 https://www.commune-crecyenponthieu.com
 https://www.commune-de-beurlay.com
 https://commune-de-chiche.com
@@ -1177,7 +1175,7 @@ https://www.dragey-ronthon.com
 https://www.dreux.com
 https://droue.com
 http://drumettaz-clarafond.com
-http://www.drumettaz-clarafond.com
+https://www.drumettaz-clarafond.com
 https://www.dufcc.com
 https://www.dun-le-palestel.com
 https://www.duravel46.com
@@ -1598,7 +1596,6 @@ https://jau-dignac-loirac.com
 https://www.jau-dignac-loirac.com
 https://jaulgonne.com
 https://www.jaulgonne.com
-https://www.jausiers.com
 http://www.jeanmoulin-thouars.com
 https://jeanmoulinchateaulin.com
 https://www.jenlain-mairie.com
@@ -1916,7 +1913,6 @@ https://www.lecannetdesmaures.com
 https://lechampdelapierre.com
 https://www.lechampdufeu.com
 http://www.leclaux-puymary.com
-https://www.lecrouais.com
 https://www.lecrozet.com
 https://www.ledeuix.com
 https://www.lefaouet.com
@@ -2658,7 +2654,6 @@ https://www.montauban.com
 http://www.montautlescreneaux.com
 https://montbard.com
 https://www.montbard.com
-https://www.montbrun-bocage.com
 https://montcresson.com
 https://montelier.com
 https://www.montelier.com
@@ -3091,8 +3086,6 @@ https://www.renwez.com
 http://residenceleslierres.com
 https://ressonslelong.com
 https://www.ressonslelong.com
-http://rethondes.com
-http://www.rethondes.com
 https://reunion-sud.com
 https://www.reunion-sud.com
 http://www.revel-belledonne.com
@@ -6807,7 +6800,7 @@ https://www.aleria.fr
 https://www.alexandre-ribot.fr
 http://aleyrac.fr
 http://www.aleyrac.fr
-http://alfarepit.fr
+https://alfarepit.fr
 https://www.alfarepit.fr
 https://mon.alfortville.fr
 https://www.alfortville.fr
@@ -7546,6 +7539,7 @@ http://www.aseaj.fr
 http://asi-aeroports.fr
 https://aslonnes.fr
 https://www.asn.fr
+http://www.asnelles.fr
 https://asnieres-sous-bois.fr
 https://www.asnieres-sous-bois.fr
 https://asnieres-sur-seine.fr
@@ -9578,6 +9572,7 @@ https://www.brocas.fr
 https://www.brochon.fr
 https://www.brommat.fr
 http://www.bromont-lamothe.fr
+https://bronvaux.fr
 https://www.broons.fr
 https://www.broquies.fr
 https://brossac.fr
@@ -10176,7 +10171,7 @@ http://cc-conques-marcillac.fr
 https://cc-coteaux-du-girou.fr
 https://www.cc-coteaux-du-girou.fr
 http://www.cc-coteaux-landes-gascogne.fr
-http://www.cc-coteauxbellevue.fr
+https://www.cc-coteauxbellevue.fr
 http://www.cc-cotesdemeuse-woevre.fr
 http://cc-creonnais.fr
 https://www.cc-creonnais.fr
@@ -12108,7 +12103,6 @@ https://www.collegedumoulin.fr
 https://collegeduparc.fr
 https://collegedupontdelamaye.fr
 http://collegeforgues64.fr
-https://www.collegegandhi.fr
 http://www.collegegapeau.fr
 http://www.collegegerardphilipe.fr
 http://www.collegegohlanno.fr
@@ -12738,7 +12732,6 @@ https://www.coteauxdulizon.fr
 https://www.cotedor.fr
 https://www.cotelub.fr
 https://cotesdarmor.fr
-http://mdph.cotesdarmor.fr
 https://www.cottevrard.fr
 http://www.coubert.fr
 https://www.coubertin-meaux.fr
@@ -12939,7 +12932,6 @@ https://creon-armagnac.fr
 https://www.creon-armagnac.fr
 https://crepol.fr
 http://creps-aquitaine.fr
-http://www.creps-aquitaine.fr
 https://www.creps-nancy.fr
 https://www.creps-paca.fr
 https://www.creps-reunion.fr
@@ -17769,6 +17761,7 @@ https://bretagne.drjscs.gouv.fr
 https://corse.drjscs.gouv.fr
 https://guadeloupe.drjscs.gouv.fr
 https://guyane.drjscs.gouv.fr
+http://www.guyane.drjscs.gouv.fr
 https://hauts-de-france.drjscs.gouv.fr
 https://ile-de-france.drjscs.gouv.fr
 https://martinique.drjscs.gouv.fr
@@ -18233,7 +18226,6 @@ https://api.faire.gouv.fr
 https://a-budgetplus.finances.gouv.fr
 https://actionsociale.finances.gouv.fr
 https://applis.finances.gouv.fr
-http://bercy4.applis.finances.gouv.fr
 https://www.artemis.finances.gouv.fr
 https://www.auth.finances.gouv.fr
 https://bercydoc.finances.gouv.fr
@@ -18383,6 +18375,7 @@ https://garde-nationale.gouv.fr
 https://jeu.garde-nationale.gouv.fr
 https://www.geoportail.gouv.fr
 https://www.geoportail-urbanisme.gouv.fr
+https://api.georisques.gouv.fr
 https://errial.georisques.gouv.fr
 https://www.georisques.gouv.fr
 https://stef.gic.gouv.fr
@@ -18558,7 +18551,6 @@ https://3b1p.gendform.gendarmerie.interieur.gouv.fr
 https://3b2p.gendform.gendarmerie.interieur.gouv.fr
 https://3b3p.gendform.gendarmerie.interieur.gouv.fr
 https://3b4p.gendform.gendarmerie.interieur.gouv.fr
-https://stsisi.jira-sdsi.gendarmerie.interieur.gouv.fr
 https://mcpn-git.gendarmerie.interieur.gouv.fr
 http://minotaur.gendarmerie.interieur.gouv.fr
 https://3b.gendform.pp.gendarmerie.interieur.gouv.fr
@@ -18604,11 +18596,9 @@ https://ansc.questionnaire.interieur.gouv.fr
 https://bas-rhin.questionnaire.interieur.gouv.fr
 https://cher.questionnaire.interieur.gouv.fr
 https://dci.questionnaire.interieur.gouv.fr
-https://dgscgc.questionnaire.interieur.gouv.fr
 https://sdasap.drh.questionnaire.interieur.gouv.fr
 https://dscr.questionnaire.interieur.gouv.fr
 https://enquetes-mi.questionnaire.interieur.gouv.fr
-https://essonne.questionnaire.interieur.gouv.fr
 https://gendarmerie.questionnaire.interieur.gouv.fr
 https://herault.questionnaire.interieur.gouv.fr
 https://indre.questionnaire.interieur.gouv.fr
@@ -19109,6 +19099,7 @@ http://web-www.covid-19.sante.gouv.fr
 http://bbs-www.covid19.sante.gouv.fr
 https://widgets.dashboard.covid19.sante.gouv.fr
 https://data.widgets.dashboard.covid19.sante.gouv.fr
+http://mx0www.covid19.sante.gouv.fr
 http://ns2www.covid19.sante.gouv.fr
 http://shop-www.covid19.sante.gouv.fr
 http://test.covid19.sante.gouv.fr
@@ -19176,7 +19167,6 @@ https://passpluscovid.sante.gouv.fr
 https://www.portail-enquetes.sante.gouv.fr
 https://www.sante-habitat.pp.sante.gouv.fr
 https://pre-dpi.sante.gouv.fr
-https://www.psyenfantado.sante.gouv.fr
 http://rechercher.sante.gouv.fr
 https://www.retraite-sup-collecte.sante.gouv.fr
 https://www.sae-collecte.sante.gouv.fr
@@ -22012,7 +22002,6 @@ https://www.lepertre.fr
 https://lepetitfougeray.fr
 https://lepetitmozart-danjoutin.fr
 https://www.lepetitpressigny.fr
-https://lepianmedoc.fr
 https://www.lepianmedoc.fr
 https://www.lepiansurgaronne.fr
 https://lepine-iledenoirmoutier.fr
@@ -24853,7 +24842,6 @@ https://mairie-rochecorbon.fr
 https://www.mairie-rochecorbon.fr
 https://mairie-rochegude.fr
 https://www.mairie-rochegude.fr
-https://www.mairie-rocher.fr
 http://www.mairie-rocles-07.fr
 https://mairie-rodemack.fr
 http://www.mairie-roinville.fr
@@ -26680,7 +26668,6 @@ http://www.mesgrigny10.fr
 https://mesigny.fr
 https://www.mesigny.fr
 http://meslan.fr
-http://www.meslan.fr
 https://mesland.fr
 https://meslay-du-maine.fr
 https://www.meslieres.fr
@@ -28946,7 +28933,6 @@ https://ouzouersurloire.fr
 https://www.ouzous.fr
 https://commune-de-hyenville.over-blog.fr
 https://essignylepetit.over-blog.fr
-https://lepasej.over-blog.fr
 https://lerehaut.over-blog.fr
 https://mairie-saint-lizier.over-blog.fr
 https://ville-houssen.over-blog.fr
@@ -31813,6 +31799,7 @@ http://www.sainte-austreberthe76.fr
 http://www.sainte-brigitte.fr
 https://sainte-catherine.fr
 https://sainte-ceronne-les-mortagne.fr
+https://sainte-colombe-en-auxois.fr
 http://www.sainte-colombe-lot.fr
 https://sainte-colombe-sur-seine.fr
 https://www.sainte-colombe-sur-seine.fr
@@ -32688,7 +32675,7 @@ https://www.saorge.fr
 http://www.saou.fr
 https://sapois.fr
 https://www.sapois.fr
-http://www.sappey-mairie.fr
+https://www.sappey-mairie.fr
 https://www.sarbazan.fr
 https://www.sarcelles.fr
 https://sarcey-69.fr
@@ -34566,6 +34553,7 @@ https://www.uphf.fr
 https://www.upoghjudoletta.fr
 https://urbeis.fr
 https://urbes-alsace.fr
+https://www.urbes-alsace.fr
 http://www.urcuit.fr
 http://www.urimenil.fr
 http://www.urologie-mondor.fr
@@ -34710,7 +34698,7 @@ https://www.valensole.fr
 https://www.valentigney.fr
 https://www.valentine-lamairie.fr
 https://www.valenton.fr
-http://valernes.fr
+https://valernes.fr
 https://www.valernes.fr
 https://www.valesdunes.fr
 https://valessonne.fr
@@ -36203,7 +36191,6 @@ https://www.ville-pornichet.fr
 https://www.ville-portdesbarques.fr
 http://ville-portes-les-valence.fr
 http://www.ville-portes-les-valence.fr
-https://www.ville-portiragnes.fr
 https://www.ville-portlouis.fr
 https://www.ville-pouguesleseaux.fr
 https://www.ville-poulainville.fr
@@ -36436,7 +36423,6 @@ http://ville-st-genest-lerpt.fr
 http://www.ville-st-genest-lerpt.fr
 http://www.ville-st-georges-de-mons.fr
 https://www.ville-st-georges-dorques.fr
-https://www.ville-st-girons.fr
 https://www.ville-st-jean-bonnefonds.fr
 https://ville-st-martin29.fr
 https://www.ville-st-martin29.fr
@@ -38610,6 +38596,7 @@ https://www.saintgermainaumontdor.org
 https://www.saintjeandangle.org
 https://saintmartindevalgalgues.org
 https://saintpauldevence.org
+https://saintpierredentremont.org
 https://www.salvagny.org
 http://sault-brenaz.org
 http://www.sault-brenaz.org
