@@ -822,6 +822,7 @@ https://centresociallatoupie.com
 http://www.cerbere-village.com
 https://www.cervione.com
 https://cevennes-gorges-du-tarn.com
+https://www.cevennes-gorges-du-tarn.com
 http://www.chabestan.com
 https://www.chabreloche.com
 https://www.chadrac.com
@@ -2642,7 +2643,6 @@ https://www.montamel.com
 https://montarnaud.com
 https://www.montarnaud.com
 https://www.montauban.com
-http://www.montautlescreneaux.com
 https://montbard.com
 https://www.montbard.com
 https://www.montbrun-bocage.com
@@ -2777,7 +2777,6 @@ https://orcet.com
 http://www.orchamps-vennes.com
 https://www.orcieres.com
 https://www.ordre-avocats-bonneville.com
-https://ordre-avocats-bourgoin-jallieu.com
 https://www.ordre-avocats-bourgoin-jallieu.com
 http://ordre-avocats-moulins.com
 http://www.ordre-avocats-moulins.com
@@ -2818,6 +2817,7 @@ https://communederiviere.over-blog.com
 https://communicationrouvresenxaintois.over-blog.com
 https://hillioninfos.over-blog.com
 https://laboissiere53800.over-blog.com
+https://lalevade-les-echos-des-bealieres.over-blog.com
 https://lesvoivres88240.over-blog.com
 https://lyceedunordacoua.over-blog.com
 https://mairie-oysonville.over-blog.com
@@ -5575,7 +5575,6 @@ http://clg-la-ferte-st-aubin.tice.ac-orleans-tours.fr
 http://clg-la-loge-des-bois-senonches.tice.ac-orleans-tours.fr
 http://clg-la-pajotterie-chateauneuf.tice.ac-orleans-tours.fr
 http://clg-la-pajotterie-chateauneuf-en-thymerais.tice.ac-orleans-tours.fr
-http://clg-la-sologne-tigy.tice.ac-orleans-tours.fr
 http://clg-lamartine-tours.tice.ac-orleans-tours.fr
 http://clg-lavoisier-oucques.tice.ac-orleans-tours.fr
 http://clg-le-champ-de-la-motte-langeais.tice.ac-orleans-tours.fr
@@ -5632,7 +5631,6 @@ http://clg-romain-rolland-deols.tice.ac-orleans-tours.fr
 http://clg-ronsard-mer.tice.ac-orleans-tours.fr
 http://clg-rosa-parks-chateauroux.tice.ac-orleans-tours.fr
 http://clg-rostand-orleans.tice.ac-orleans-tours.fr
-http://clg-rschuman-amilly.tice.ac-orleans-tours.fr
 http://clg-saint-exupery-contres.tice.ac-orleans-tours.fr
 http://clg-saint-exupery-eguzon-chantome.tice.ac-orleans-tours.fr
 http://clg-saint-exupery-st-jean-de-braye.tice.ac-orleans-tours.fr
@@ -5647,7 +5645,6 @@ http://clg-victor-hugo-bourges.tice.ac-orleans-tours.fr
 http://clg-victor-hugo-chartres.tice.ac-orleans-tours.fr
 http://clg-victor-hugo-puiseaux.tice.ac-orleans-tours.fr
 http://clg-villemandeur.tice.ac-orleans-tours.fr
-http://clg-vincent-rotinat-neuvy-st-sepulchre.tice.ac-orleans-tours.fr
 http://col-helene-boucher-chartres.tice.ac-orleans-tours.fr
 http://er-simone-veil-amilly.tice.ac-orleans-tours.fr
 http://lp-jean-felix-paulsen-chateaudun.tice.ac-orleans-tours.fr
@@ -9181,7 +9178,7 @@ https://bonneville.fr
 https://www.bonneville.fr
 https://www.bonneville-la-louvet.fr
 https://www.bonneville80.fr
-http://www.bonnieres-sur-seine.fr
+https://www.bonnieres-sur-seine.fr
 http://www.bonnieux84.fr
 http://bonningues-les-calais.fr
 http://www.bonningues-les-calais.fr
@@ -10639,6 +10636,7 @@ https://www.cctso.fr
 http://www.cctv70.fr
 http://ccv2m.fr
 https://ccvaldecharente.fr
+https://www.ccvaldecharente.fr
 https://www.ccvalguiers.fr
 http://www.ccvalsaixisable.fr
 https://ccvannepaysothe.fr
@@ -11863,7 +11861,7 @@ https://www.cma37.fr
 https://www.cma41.fr
 https://www.cma45.fr
 https://www.cma64.fr
-http://cma65.fr
+https://cma65.fr
 https://www.cma65.fr
 https://www.cma66.fr
 https://www.cma76.fr
@@ -16248,7 +16246,6 @@ https://staging2.entreprise.api.gouv.fr
 https://status.entreprise.api.gouv.fr
 https://v2.entreprise.api.gouv.fr
 https://v3-beta.entreprise.api.gouv.fr
-http://watchdoge.entreprise.api.gouv.fr
 http://wd2.entreprise.api.gouv.fr
 https://geo.api.gouv.fr
 http://tiles.geo.api.gouv.fr
@@ -18240,7 +18237,6 @@ https://www.europe-en-france.gouv.fr
 http://expo-universelle.gouv.fr
 http://www.expo-universelle.gouv.fr
 https://admin.faire.gouv.fr
-https://api.faire.gouv.fr
 https://a-budgetplus.finances.gouv.fr
 https://actionsociale.finances.gouv.fr
 https://applis.finances.gouv.fr
@@ -18550,7 +18546,6 @@ https://eirel7.interieur.gouv.fr
 https://eirel8.interieur.gouv.fr
 https://eirel9.interieur.gouv.fr
 https://www.elections.interieur.gouv.fr
-https://www.qa.enquetes-administratives.interieur.gouv.fr
 https://www.qa.enquetesadministratives.interieur.gouv.fr
 https://www.ensp.interieur.gouv.fr
 https://envol2.interieur.gouv.fr
@@ -18744,7 +18739,6 @@ https://osiris.extranet.jeunesse-sports.gouv.fr
 https://tam.extranet.jeunesse-sports.gouv.fr
 https://osiris.valid.extranet.jeunesse-sports.gouv.fr
 https://tam.valid.extranet.jeunesse-sports.gouv.fr
-http://siva.int.jeunesse-sports.gouv.fr
 http://www.mjspaca.jeunesse-sports.gouv.fr
 https://phototheque.jeunesse-sports.gouv.fr
 https://back.phototheque.jeunesse-sports.gouv.fr
@@ -19077,6 +19071,7 @@ https://www.projets-environnement.gouv.fr
 https://www.rdv.puy-de-dome.gouv.fr
 http://www.puy-de-dome.gouv.fr
 https://francerelance.pyrenees-atlantiques.gouv.fr
+https://www.pyrenees-atlantiques.gouv.fr
 https://www.qualite-tourisme.gouv.fr
 http://www.qualitetransports.gouv.fr
 http://www.radiofrequences.gouv.fr
@@ -19213,6 +19208,7 @@ http://www.rdvmun.savoie.gouv.fr
 https://www.savoie.gouv.fr
 http://www.arago.science.gouv.fr
 http://www.foucault.science.gouv.fr
+https://secnumacademie.gouv.fr
 https://autoecoles.securite-routiere.gouv.fr
 https://tr.email.securite-routiere.gouv.fr
 https://tr.infolettre.securite-routiere.gouv.fr
@@ -21074,7 +21070,6 @@ https://lachapellelaunay.fr
 https://www.lachapellelaunay.fr
 https://lachapellelesluxeuil.fr
 https://www.lachapellelongueville.fr
-http://lachapelleneuve56.fr
 https://www.lachapelleneuve56.fr
 https://lachapellepalluau.fr
 https://lachapellesaintaubert.fr
@@ -26808,8 +26803,6 @@ http://www.miij.fr
 https://mijanes.fr
 https://mijoux.fr
 https://www.mijoux.fr
-https://milhacdauberoche.fr
-http://www.milhacdauberoche.fr
 https://milhaud.fr
 https://www.milhaud.fr
 https://www.millac.fr
@@ -27951,6 +27944,7 @@ https://www.montliard.fr
 http://montlieulagarde.fr
 http://www.montlieulagarde.fr
 https://www.montlivault.fr
+http://www.montlognon.fr
 https://montmachoux.fr
 https://www.montmachoux.fr
 https://montmacq-le-village.fr
@@ -29406,7 +29400,6 @@ https://www.perrigny-sur-armancon.fr
 https://perrou.fr
 http://www.perruel.fr
 https://www.perrusson.fr
-https://www.pers-en-gatinais.fr
 http://www.persac.fr
 https://www.personne-agee-aide-issoire.fr
 https://www.perthes-en-gatinais.fr
@@ -32419,7 +32412,7 @@ http://www.saintsauveurdepuynormand.fr
 https://www.saintsauveurenpuisaye.fr
 https://saintsauveursurecole.fr
 https://www.saintsauveursurtinee.fr
-http://saintsauveurvillages.fr
+https://saintsauveurvillages.fr
 http://www.saintsauvier.fr
 https://www.saintsebastien.fr
 http://www.saintsebastiendemorsent.fr
@@ -34605,7 +34598,6 @@ http://www.uxem.fr
 https://www.uza40.fr
 https://www.uzaylevenon.fr
 https://www.uzech-les-oules.fr
-https://uzein.fr
 http://uzemain.fr
 http://www.uzemain.fr
 https://www.uzer07.fr
@@ -36416,7 +36408,7 @@ https://ville-somain.fr
 https://www.ville-soreze.fr
 https://www.ville-sorinieres.fr
 https://ville-sottevast.fr
-https://www.ville-soultz.fr
+http://www.ville-soultz.fr
 http://www.ville-soultzmatt.fr
 https://ville-sous-anjou.fr
 http://www.ville-spay.fr
@@ -36948,6 +36940,7 @@ https://www.viviez.fr
 http://www.vivoin.fr
 https://www.vivonne.fr
 https://vivrabreuil.fr
+https://vivrastcrepin.fr
 https://www.vivrastcrepin.fr
 https://vivreabroye.fr
 http://vivreaseillons.fr
@@ -38579,7 +38572,7 @@ https://www.saint-cyr-sur-morin.org
 https://saint-emilion.org
 https://www.saint-emilion.org
 https://www.saint-germain-les-corbeil.org
-http://saint-germain-sur-morin.org
+https://saint-germain-sur-morin.org
 https://www.saint-germain-sur-morin.org
 https://www.saint-lambert.org
 http://www.saint-sulpice-de-favieres.org
