@@ -808,7 +808,6 @@ https://www.cdg13.com
 https://www.cdg2a.com
 https://www.cdg2b.com
 https://www.cdg58.com
-https://www.cdg60.com
 https://www.cdg73.com
 https://www.cdg971.com
 https://www.cdos01.com
@@ -1391,6 +1390,7 @@ https://flavigny.com
 https://www.flavigny.com
 https://foissiat.com
 https://www.foissiat.com
+http://fontaine-chalendray.com
 http://www.fontaine-chalendray.com
 https://college.fontaine-du-ve.com
 https://lpo.fontaine-du-ve.com
@@ -2892,7 +2892,6 @@ https://pazayac.com
 https://paziols.com
 https://www.peche-ardeche.com
 https://www.peche-ariege.com
-http://www.peche-en-deux-sevres.com
 https://www.peche-haute-saone.com
 https://peche-hautes-alpes.com
 https://www.peche-isere.com
@@ -3178,6 +3177,7 @@ https://saint-leger-de-rostes.com
 https://www.saint-leger-de-rostes.com
 https://www.saint-lizier.com
 https://www.saint-lupicin.com
+https://www.saint-mammes.com
 http://saint-martin-osmonville.com
 http://www.saint-martin-osmonville.com
 https://www.saint-martin-uriage.com
@@ -3734,6 +3734,7 @@ https://www.vicqsurbreuilh.com
 http://www.victorduruy.com
 https://www.vieillevigne44.com
 https://www.vigeois.com
+https://www.village-arlempdes.com
 http://www.village-comps.com
 https://village-goudet.com
 https://www.village-sablieres.com
@@ -5332,7 +5333,6 @@ https://clg-grazailles-carcassonne.ac-montpellier.fr
 https://clg-haignere-rochefortdugard.ac-montpellier.fr
 https://clg-hugo-bessan.ac-montpellier.fr
 https://clg-jaures-meze.ac-montpellier.fr
-https://clg-jaures-stchinian.ac-montpellier.fr
 https://clg-joffre-montpellier.ac-montpellier.fr
 https://clg-krafft-beziers.ac-montpellier.fr
 https://clg-lacanourgue.ac-montpellier.fr
@@ -5414,6 +5414,7 @@ https://www.ac-nancy-metz.fr
 https://www4.ac-nancy-metz.fr
 http://cio44.ac-nantes.fr
 http://cio49.ac-nantes.fr
+http://cio53.ac-nantes.fr
 http://cio72.ac-nantes.fr
 http://cio85.ac-nantes.fr
 https://www.ac-nantes.fr
@@ -6836,6 +6837,7 @@ http://www.angres.fr
 https://angresse.fr
 https://anguerny.fr
 https://animapole.fr
+http://animations-marcko.fr
 http://www.animations-marcko.fr
 https://animelbeuf.fr
 http://www.animravel.fr
@@ -8775,7 +8777,7 @@ https://beyrede-jumet.fr
 https://www.beyrede-jumet.fr
 https://beyren-gandren.fr
 https://www.beyries.fr
-https://bez-et-esparon.fr
+http://bez-et-esparon.fr
 https://www.bezannes.fr
 http://bezaudun.fr
 https://beze.fr
@@ -9201,7 +9203,8 @@ https://boux-sous-salmaise.fr
 https://bouxieresauxchenes.fr
 https://www.bouxieresauxchenes.fr
 http://www.bouzel.fr
-http://www.bouzic-perigord.fr
+http://bouzic-perigord.fr
+https://www.bouzic-perigord.fr
 http://www.bouzies.fr
 http://www.bouzigues.fr
 https://bouzylaforet.fr
@@ -10196,7 +10199,7 @@ https://www.cc2morin.fr
 https://www.cc2so.fr
 https://cc2v91.fr
 https://www.cc2vv.fr
-http://www.cc3c.fr
+https://www.cc3c.fr
 http://cc3m.fr
 http://www.cc3m.fr
 https://www.cc3p.fr
@@ -10344,8 +10347,6 @@ https://www.lemans.sarthe.cci.fr
 https://tarbes.cci.fr
 https://www.tarbes.cci.fr
 https://www.tarn.cci.fr
-https://toulouse.cci.fr
-https://www.toulouse.cci.fr
 http://touraine.cci.fr
 http://www.touraine.cci.fr
 https://www.vaucluse.cci.fr
@@ -13881,8 +13882,8 @@ https://www.ecpad.fr
 https://ecromagny.fr
 https://ecrouves.fr
 https://www.ecrouves.fr
-http://ectotlauber.fr
-http://www.ectotlauber.fr
+https://ectotlauber.fr
+https://www.ectotlauber.fr
 http://www.ecueille.fr
 http://ecuille.fr
 http://www.ecuille.fr
@@ -14653,7 +14654,6 @@ https://www.estoublon.fr
 https://www.estourmel.fr
 http://estouy.fr
 http://www.estouy.fr
-https://estrablin.fr
 https://www.estrablin.fr
 https://estree-blanche.fr
 https://www.estree-blanche.fr
@@ -18600,7 +18600,7 @@ http://www.justice.gouv.fr
 https://www.kiosque-sig.gouv.fr
 http://www.la-reunion.gouv.fr
 https://www.rdv.landes.gouv.fr
-http://www.landes.gouv.fr
+https://www.landes.gouv.fr
 https://www.le-smv.gouv.fr
 https://journal-officiel.legifrance.gouv.fr
 https://journal-officiel.preprod.legifrance.gouv.fr
@@ -19741,6 +19741,7 @@ https://www.greta-sqc.fr
 https://greta-tpc.fr
 https://www.greta-yvelines.fr
 http://greta36.fr
+http://www.greta36.fr
 http://gretacotesarmor.fr
 http://www.gretacotesarmor.fr
 https://gretaformation.fr
@@ -21274,6 +21275,7 @@ https://www.languevoisinquiquery.fr
 https://www.languidic.fr
 https://lanhouarneau.fr
 https://www.lanhouarneau.fr
+https://lanildut.fr
 https://www.lanildut.fr
 https://lanmeur.fr
 https://www.lanmeur.fr
@@ -21518,6 +21520,7 @@ https://www.lavare-72.fr
 https://www.lavau-sur-loire.fr
 https://www.lavault-ste-anne.fr
 http://www.lavaurette.fr
+http://www.lavazan.fr
 https://www.laveissiere.fr
 https://lavelanetdecomminges.fr
 https://laventie.fr
@@ -21784,7 +21787,6 @@ https://www.lehavreseinemetropole.fr
 https://www.lehingle.fr
 http://lehouga.fr
 https://www.leigne-les-bois.fr
-http://leigneux.fr
 https://www.leigneux.fr
 http://leinsgardonnenque.fr
 https://www.leinsgardonnenque.fr
@@ -33553,6 +33555,7 @@ http://www.stpierredelages.fr
 http://www.stpierredesfleurs.fr
 https://www.stpierredetrivisy.fr
 https://www.stpierreforcats.fr
+https://stprivatdevallongue.fr
 https://www.stratis.fr
 https://www.stromain76.fr
 https://www.stromainlavirvee.fr
@@ -38366,7 +38369,6 @@ https://vercors.org
 https://www.vercors.org
 http://www.victor-duruy.org
 https://www.vignot.org
-https://www.ville-ebreuil.org
 https://ville-loonplage.org
 https://www.ville-loonplage.org
 http://www.ville-saint-martin-auxigny.org
