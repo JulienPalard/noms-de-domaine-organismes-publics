@@ -722,6 +722,7 @@ https://castelnau-de-guers.com
 https://www.castelnau-de-guers.com
 https://www.castelnau-riviere-basse.com
 http://castelnaudauzan.com
+https://castelnaudemontmiral-tourisme.com
 https://castera-verduzan.com
 https://www.castera-verduzan.com
 https://castillon09.com
@@ -1210,7 +1211,6 @@ https://lieudieu.e-monsite.com
 https://lissey.e-monsite.com
 https://mairie-chalonvillars.e-monsite.com
 https://mairie-de-coincy.e-monsite.com
-https://mairie-de-jolivet.e-monsite.com
 https://mairie-de-marest.e-monsite.com
 https://mairie-de-rocquemont.e-monsite.com
 https://mairie-de-sauvagnas.e-monsite.com
@@ -1414,7 +1414,6 @@ http://www.foufflin-ricametz.com
 http://www.fourg-village.com
 https://www.fourques.com
 http://foussais-payre.com
-http://www.foussais-payre.com
 https://aisne.franceolympique.com
 https://alpesdehauteprovence.franceolympique.com
 https://aube.franceolympique.com
@@ -2806,19 +2805,15 @@ https://collegelagrandemetairie.over-blog.com
 https://communedefloremont.over-blog.com
 https://communederiviere.over-blog.com
 https://communicationrouvresenxaintois.over-blog.com
-https://hillioninfos.over-blog.com
 https://lalevade-les-echos-des-bealieres.over-blog.com
-https://lesvoivres88240.over-blog.com
 https://lyceedunordacoua.over-blog.com
 https://mairie-oysonville.over-blog.com
 https://mairiede33420jugazan.over-blog.com
-https://mairiedepuget.over-blog.com
 https://mairiehoutkerque.over-blog.com
 https://mairielesgenettes.over-blog.com
 https://mairiesenon.over-blog.com
 https://malleval.over-blog.com
 https://maruejolslesgardon.over-blog.com
-https://monestierdupercy.over-blog.com
 https://orcevaux.over-blog.com
 https://prof-principal-betance.over-blog.com
 https://saint-gauzens.over-blog.com
@@ -2854,7 +2849,7 @@ https://www.pays-bresse-bourguignonne.com
 https://www.pays-de-blain.com
 https://pays-de-landivisiau.com
 https://www.pays-de-landivisiau.com
-http://www.pays-des-sucs.com
+https://pays-des-sucs.com
 https://www.pays-gentiane.com
 http://pays-lunevillois.com
 https://www.pays-lunevillois.com
@@ -3607,7 +3602,6 @@ https://www.torcenay.com
 https://torcyenvalois.com
 https://www.torfou.com
 https://tossiat.com
-https://tourainepropre.com
 https://www.tourisme-corbieres-minervois.com
 https://www.tourisme-paysdelaon.com
 https://www.tourisme-salies-du-salat.com
@@ -4071,7 +4065,6 @@ https://www.commune-mothern.eu
 https://www.crecylachapelle.eu
 http://conde-sainte-libiaire.csime.eu
 http://lumigny-nesles-ormeaux.csime.eu
-http://www.lumigny-nesles-ormeaux.csime.eu
 https://www.ee-strasbourg.eu
 http://authentication.enim.eu
 https://www.enim.eu
@@ -4786,7 +4779,6 @@ http://www.clg-vernier.ac-besancon.fr
 http://www.clg-victor-schoelcher.ac-besancon.fr
 http://www.clg-villersexel.ac-besancon.fr
 http://www.clg-xavier-bichat.ac-besancon.fr
-http://college-quatre-terres.ac-besancon.fr
 http://www.lyc-colomb.ac-besancon.fr
 http://www.lyc-germaine-tillion.ac-besancon.fr
 http://www.lyc-jean-michel.ac-besancon.fr
@@ -5778,11 +5770,9 @@ http://college-asoubou.ac-reunion.fr
 http://college-boisdenefles.ac-reunion.fr
 http://college-bourbon.ac-reunion.fr
 http://college-de-la-marine.ac-reunion.fr
-http://college-du-ruisseau.ac-reunion.fr
 http://college-edmond-albius.ac-reunion.fr
 http://college-ehugot.ac-reunion.fr
 http://college-hfoucque.ac-reunion.fr
-http://college-joseph-bedier.ac-reunion.fr
 http://college-joseph-hubert.ac-reunion.fr
 http://college-lamontagne.ac-reunion.fr
 http://college-ledimitile.ac-reunion.fr
@@ -5797,7 +5787,6 @@ http://college-titan.ac-reunion.fr
 https://etab.ac-reunion.fr
 http://lp-roches-maigres.ac-reunion.fr
 http://lycee-amiral-bouvet.ac-reunion.fr
-http://lycee-bois-d-olive.ac-reunion.fr
 http://lycee-brassens.ac-reunion.fr
 http://lycee-isnelle-amelin.ac-reunion.fr
 http://lycee-jean-perrin.ac-reunion.fr
@@ -9190,7 +9179,8 @@ https://boux-sous-salmaise.fr
 https://bouxieresauxchenes.fr
 https://www.bouxieresauxchenes.fr
 http://www.bouzel.fr
-https://www.bouzic-perigord.fr
+http://bouzic-perigord.fr
+http://www.bouzic-perigord.fr
 http://www.bouzies.fr
 http://www.bouzigues.fr
 https://bouzylaforet.fr
@@ -11100,6 +11090,7 @@ http://www.chateauvieux05.fr
 https://chateauvilain38.fr
 https://chatel-en-trieves.fr
 https://www.chatel-guyon.fr
+https://www.chatel-montagne.fr
 https://chatel-moron.fr
 https://www.chatel-moron.fr
 http://www.chatel-saint-germain.fr
@@ -13970,7 +13961,6 @@ https://www.ehuns.fr
 https://www.einstein-03.fr
 https://einville-au-jard.fr
 http://www.eix.fr
-http://mairiedelaneuville.eklablog.fr
 https://www.elan87.fr
 https://elancourt.fr
 http://www.eletot.fr
@@ -15493,8 +15483,6 @@ https://froncles.fr
 https://www.froncles.fr
 https://www.frontenac.fr
 https://www.frontenaud.fr
-https://frontenayrr.fr
-https://www.frontenayrr.fr
 https://www.frontenex.fr
 https://www.frontignan.fr
 https://frontonas.fr
@@ -16416,7 +16404,7 @@ https://rpcu.cadastre.gouv.fr
 https://www.rpcu.cadastre.gouv.fr
 https://www.cadastre.gouv.fr
 https://www.rdv.calvados.gouv.fr
-http://www.calvados.gouv.fr
+https://www.calvados.gouv.fr
 https://www.rdv.cantal.gouv.fr
 https://www.cantal.gouv.fr
 http://archives.cas.gouv.fr
@@ -18725,6 +18713,7 @@ https://www.nouvelle-caledonie.gouv.fr
 https://nouvelles-chances.gouv.fr
 https://www.nouvelles-chances.gouv.fr
 https://nrbc-e.gouv.fr
+https://www.nrbc-e.gouv.fr
 https://accessibilite.numerique.gouv.fr
 https://audioconf.numerique.gouv.fr
 https://stats.audioconf.numerique.gouv.fr
@@ -21055,6 +21044,7 @@ https://www.lagny.fr
 https://www.lagny-sur-marne.fr
 https://www.lagnylesec.fr
 https://www.lagodivelle.fr
+https://www.lagor.fr
 https://www.lagorce33.fr
 https://www.lagord.fr
 https://www.lagouesniere.fr
@@ -21416,7 +21406,6 @@ https://www.lasauniere.fr
 https://www.lasaussaye.fr
 https://www.lasbordes11400.fr
 http://www.lascazeres.fr
-http://www.laselleguerchaise.fr
 http://lasellesurlebied.fr
 http://www.lasellesurlebied.fr
 https://www.laselve.fr
@@ -21471,6 +21460,7 @@ https://laudrefang.fr
 https://laudunlardoise.fr
 https://www.laudunlardoise.fr
 https://www.laugnac47.fr
+https://www.launoissurvence.fr
 https://laurabuc.fr
 https://lauracenvivarais.fr
 https://www.lauracenvivarais.fr
@@ -21747,7 +21737,7 @@ http://www.legrandbourg.fr
 https://www.legrandchalon.fr
 https://www.legrandcharolais.fr
 https://www.legrandlemps.fr
-http://www.legrandmeaulnes.fr
+https://www.legrandmeaulnes.fr
 https://legrandserre.fr
 https://legrandvillageplage.fr
 https://www.legrandvillageplage.fr
@@ -21794,6 +21784,7 @@ https://lembach.fr
 https://www.lembach.fr
 http://www.lemberg.fr
 https://lemee28.fr
+https://www.lemee28.fr
 https://www.lemeesurseine.fr
 https://lemere.fr
 https://lemerevillois.fr
@@ -26200,6 +26191,7 @@ https://www.massoins.fr
 https://massongy.fr
 https://www.mastaing.fr
 https://www.matemale.fr
+http://mathay.fr
 https://www.mathay.fr
 http://www.matougues.fr
 https://www.matour.fr
@@ -26516,7 +26508,6 @@ http://meursac.fr
 http://www.meursac.fr
 https://meurthe-et-moselle.fr
 https://mdph.meurthe-et-moselle.fr
-https://www.meurthe-et-moselle.fr
 https://www.meuse.fr
 https://www.meusegrandsud.fr
 https://www.meuserognon.fr
@@ -31080,7 +31071,6 @@ https://www.saint-maurice-de-satonnay.fr
 https://saint-maurice-en-chalencon.fr
 https://www.saint-maurice-en-chalencon.fr
 https://saint-maurice-en-gourgois.fr
-https://www.saint-maurice-en-gourgois.fr
 https://saint-maurice-en-riviere.fr
 http://saint-maurice67.fr
 http://www.saint-maurin.fr
@@ -32058,6 +32048,7 @@ https://www.saintpierredechartreuse.fr
 http://saintpierredecolombier.fr
 https://www.saintpierredecormeilles.fr
 https://saintpierredefrugie.fr
+http://saintpierredemanneville.fr
 http://www.saintpierredemanneville.fr
 https://saintpierredentremontisere.fr
 https://saintpierredeschamps.fr
